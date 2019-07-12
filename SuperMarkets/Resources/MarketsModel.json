@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "marketId": 1,
+            "name": "Çağdaş",
+            "imageName": "Cagdas",
+            "description": "Çağdaş, gerçek anlamda \"Hem kaliteli hem hesaplı\" bir süpermarket zinciridir. Tazeliği hissettirir, yöresel tat lezzetlerin gelişimini sağlar. Sağlıklı, kaliteli ve güvenli ürünleri, bol çeşit, temiz ve ferah iyi aydınlatılmış mağazalarda, bilinçli tüketicileri hedef alarak satışa sunar. Bunu eğitimli çalışanlarla yapmak ister. Yaşam kalitesini alışverişçisinden, çalışanına ve tedarikçisine kadar gözetir. Ülke ekonomisine katkısının farkındadır ve müşteri adına hesaplı alış veriş yapabilmenin önemini bilir. Fiyat rekabetinde kazancı \"alırken\"/ sağlar ve \"sunarken\" paylaşır. ",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        },
+        {
+            "marketId": 2,
+            "name": "Migros",
+            "imageName": "Migros",
+            "description": "Türkiye’nin ilk sanal market uygulaması olan ve 1997 yılından bu yana, müşterilerin bir Migros mağazasında bulabilecekleri tüm ürünleri kapıda teslim hizmeti ile sunan Migros Sanal Market, Türkiye’nin uygulamalarında öncü, pazarı geliştiren, en büyük ve yaygın gıda e-ticaret sitesidir. Migros Sanal Market’ten Migros mağazalarında satılan tüm ürünler, Migros mağazaları ile aynı fiyat ve avantajlarla 7 gün 24 saat boyunca internet üzerinden sipariş edilebilmektedir.",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        },
+        {
+            "marketId": 3,
+            "name": "BIM",
+            "imageName": "BIM",
+            "description": "Faaliyetlerine 1995 yılında 21 mağazayla başlayan BİM Birleşik Mağazalar A.Ş. ana ilkesi, temel gıda ve tüketim malzemelerinin mümkün olan en uygun fiyat ve en yüksek kaliteyle tüketiciye ulaştırılmasıdır.\n\nYüksek indirim (hard-discount) modelinin Türkiye’deki ilk temsilcisi olan BİM, portföyünü yaklaşık 700 ürünle sınırlı tutmakta ve çok sayıda özel markalı ürüne sahip olmayı hedeflemektedir.",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        },
+        {
+            "marketId": 4,
+            "name": "A-101",
+            "imageName": "A-101",
+            "description": "A101, kuruluşundan bugüne tek bir amaca odaklandı; En uygun fiyata kaliteli ürünleri müşterilerimize ulaştırmak. Bu iddiamıza sahip çıkmak için her gün yeni mağazalar açıyor, ülkenin en ücra noktalarına, vatandaşlarımızın hak ettiği hizmeti ulaştırmaya çalışıyoruz.\n\nBu amaç için; Türkiye’nin 81 ilinde, 914 ilçesinde, 6850 mahallesinde, günde yaklaşık 3,5 milyon kez mağazalarımızı ziyaret eden müşterilerimize; ucuz, kaliteli ve yenilikçi hizmetleri sunmaya devam edeceğiz.",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        },
+        {
+            "marketId": 5,
+            "name": "Carrefour",
+            "imageName": "Carrefour",
+            "description": "CarrefourSA, dünyadaki ilk mağazasını 15 Haziran 1963'te Fransa'da açan global perakende devi Carrefour’un 1993 yılında Türkiye’deki ilk mağazasını İçerenköy’de açmasının ardından 1996 yılında gücünü Sabancı Holding ile birleştirmesiyle kuruldu. CarrefourSA, 2005 yılı Mayıs ayında Gima ve Endi'yi bünyesine katarak sektördeki büyüme hamlesini devam ettirmiştir.\n2013 yılı Temmuz ayı itibarıyla Sabancı Holding’in CarrefourSA bünyesindeki yönetimde söz sahibi olmasıyla birlikte her alanda gerçekleştirdiği yatırımlarla büyük bir değişim başlatmıştır. ",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        },
+        {
+            "marketId": 6,
+            "name": "Şok",
+            "imageName": "Sok",
+            "description": "Türkiye’nin 81 ilinde 6.642’yi aşan mağazamız, 24 dağıtım merkezimiz ve 25.000’e ulaşan çalışanımızla, müşterilerimizin temel ihtiyaç maddelerinin tamamına yakınını “tek yerden” ve evlerine en yakın noktadan karşılamalarını sağlıyoruz.\nMağaza ağımızı, müşterilerimize daha etkili ulaşabilmek amacıyla sürekli ve hızlı bir biçimde genişletiyoruz.\n\n2015’in başından bu yana her gün ortalama 3 adet yeni mağaza açarak, 2015 yılında net 699 adet, 2016’da 1.000 adet ve 2017’de 1.100 adet yeni mağaza açtık. Müşterilerimize keyifli bir atmosfer yaratmak ve kolay bir alışveriş deneyimi yaşatmak amacıyla son üç yılda toplam 2.747 adet mağazamızı da yenilemiş bulunmaktayız.\nTüketici hafızasında tarihçesi olan ve geçmişte ulusal marka niteliğine sahip Mis, Piyale, Mintax, Evin ve Amigo gibi markalara sahip çıkarak bu değerleri yeniden ekonomiye kazandırdık. Köklü, nostaljik, marka algısı güçlü ve her biri kendi alanında yüksek bilinirliğe sahip bu özgün markaları, uygun fiyatlara müşterilerimize sunuyoruz.",
+            "city": "Ankara",
+            "coordinates": {
+                "longitude": 39.9334,
+                "latitude": 32.8597
+            }
+        }
+    ],
+    "success": true,
+    "message": ""
+}

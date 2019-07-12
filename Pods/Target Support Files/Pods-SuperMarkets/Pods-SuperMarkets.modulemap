@@ -1,0 +1,6 @@
+framework module Pods_SuperMarkets {
+  umbrella header "Pods-SuperMarkets-umbrella.h"
+
+  export *
+  module * { export * }
+}
