@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF2B2444-CB10-41FA-8157-F147FFE656B5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90B42750-88BF-4850-A442-F7A512592079"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "locationCoordinate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FACC308D-47C2-4EA9-9FBA-AC03505F7CA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "locationCoordinate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B944DE9D-E48D-482F-A811-3274FE98822F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "locationCoordinate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34BD3BD0-9609-4490-9194-EA4E927B930F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "locationCoordinate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9AC8DC4-DD0F-4D62-81B4-D0DF36FCEB5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "A9AC8DC4-DD0F-4D62-81B4-D0DF36FCEB5E - 98c7e81f4213689e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;SuperMarkets.MarketsData.CodingKeys&gt;"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A9AC8DC4-DD0F-4D62-81B4-D0DF36FCEB5E - 64d068fd8c003fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F2A4D62-F6F6-40BF-8895-DCF3DB34163C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "7F2A4D62-F6F6-40BF-8895-DCF3DB34163C - 98c7e81f4213689e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;SuperMarkets.MarketsData.CodingKeys&gt;"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "7F2A4D62-F6F6-40BF-8895-DCF3DB34163C - 64d068fd8c003fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CC160C3-9CF5-4FA4-A799-1C36F4D04743"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CD883F9-B6D9-440E-93E4-812312775188"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A182BC7-923D-4907-B192-0730C6D95A39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MarketsData"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "423B032C-1BB7-4482-A4E2-3AF566BE1BE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MarketsData"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CE834E3-3FBD-406C-880B-A6C18C8D192D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MarketsData"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5C92D71-CF58-4346-81C5-AD32366A83DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperMarkets/Models/MarketsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "D5C92D71-CF58-4346-81C5-AD32366A83DF - 98c7e81f4213689e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;SuperMarkets.MarketsData.CodingKeys&gt;"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "D5C92D71-CF58-4346-81C5-AD32366A83DF - 64d068fd8c003fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperMarkets.MarketsData.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "SuperMarkets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdallah/Desktop/SuperMarkets/SuperMarkets/Models/MarketsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

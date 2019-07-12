@@ -6,8 +6,8 @@ import Foundation
 
 struct Coordinate : Codable {
 
-	let latitude : Float?
-	let longitude : Float?
+	let latitude : Double?
+	let longitude : Double?
 
 
 	enum CodingKeys: String, CodingKey {
@@ -16,9 +16,10 @@ struct Coordinate : Codable {
 	}
 	init(from decoder: Decoder) throws {
 		let values = try decoder.container(keyedBy: CodingKeys.self)
-		latitude = try values.decodeIfPresent(Float.self, forKey: .latitude)
-		longitude = try values.decodeIfPresent(Float.self, forKey: .longitude)
+		latitude = try values.decodeIfPresent(Double.self, forKey: .latitude)
+		longitude = try values.decodeIfPresent(Double.self, forKey: .longitude)
 	}
+   
 
 
 }

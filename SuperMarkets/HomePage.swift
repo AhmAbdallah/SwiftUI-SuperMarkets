@@ -19,19 +19,17 @@ struct Market: Identifiable {
 
 struct HomePage : View {
     let markets:MarketsModel = load("MarketsModel.json")
-//    let markets: [Market] = [.init(id: 0, name: "Çağdaş", imageName: "Cagdas"),
-//                             .init(id: 1, name: "Migros", imageName: "Migros"),
-//                             .init(id: 2, name: "BIM", imageName: "BIM"),
-//                             .init(id: 3, name: "A-101", imageName: "A-101"),
-//                             .init(id: 4, name: "Carrefour", imageName: "Carrefour"),
-//                             .init(id: 5, name: "Şok", imageName: "Sok")]
     var body: some View {
         
         NavigationView {
             List {
-                ForEach(markets.marketsData) { mar in
-                    Text("\(mar)")
+                
+                ForEach((markets.marketsData?.identified(by: \.marketId))!) {market in
+                    NavigationLink(destination: MarketDetailsPage(market: market)){
+                            MarketRow(marketData: market)
+                        }
                 }
+                
             }.navigationBarTitle(Text("Markets"))
         }
         
@@ -55,15 +53,15 @@ func load<T: Decodable>(_ fileName: String, as type: T.Type = T.self) -> T{
     }
 }
 struct MarketRow: View {
-    let market: MarketsData
+    let marketData: MarketsData
     var body: some View {
         HStack{
-            Image(market.imageName!)
+            Image(marketData.imageName!)
                 .resizable()
                 .padding(.all, 10.0)
                 .clipShape(Circle())
                 .frame(width: 80, height: 80)
-            Text(market.name!)
+            Text(marketData.name!)
                 .multilineTextAlignment(.leading)
             
         }
@@ -72,6 +70,7 @@ struct MarketRow: View {
 #if DEBUG
 struct HomePage_Previews : PreviewProvider {
     static var previews: some View {
+        
         HomePage()
     }
 }
